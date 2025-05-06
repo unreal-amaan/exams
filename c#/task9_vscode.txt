@@ -16,7 +16,11 @@ namespace First
         }
         private void InitComponents()
         {
-            ColorDialog dlg = new ColorDialog(); dlg.ShowDialog();
+            ColorDialog dlg = new ColorDialog(); 
+            if(dlg.ShowDialog() == DialogResult.OK) {
+                this.BackColor = dlg.Color;
+                // dlg.ShowDialog();
+            }
         }
         [STAThread]
         static void Main() {
@@ -26,4 +30,5 @@ namespace First
     }
 }
 
-** run this command   dotnet new winforms -o first
+
+** run this command   dotnet run --project first
