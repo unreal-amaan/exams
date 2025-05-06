@@ -9,6 +9,9 @@ InitComponents();
 private void InitComponents()
 {
 ColorDialog dlg = new ColorDialog(); dlg.ShowDialog();
+if(dlg.ShowDialog() == DialogResult.Ok)
+this.backColor = dlg.Color;
+dlg.ShowDialog();
 }
 [STAThread]
 static void Main() {
