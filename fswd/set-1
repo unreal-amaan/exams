@@ -1,0 +1,62 @@
+//TASK-1********************************************
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<script type ="text/javascript">
+function str_vowel()
+{
+var str=prompt("Enter a string\n","");
+   for(var i = 0; i<str.length; i++)
+    {
+          if (str.charAt(i) =='a' || str.charAt(i) == 'e' || str.charAt(i) =='i'|| str.charAt(i) == 'o' || str.charAt(i) == 'u' || str.charAt(i) == 'A' ||str.charAt(i) == 'E' || str.charAt(i) =='I' || str.charAt(i) =='O' || str.charAt(i) == 'U')
+        {
+            document.write("The entered string is:" +str+ "<br/>");
+            document.write("The leftmost vowel is :"+str.charAt(i)+"<br/>");
+            var pos = i+1;
+            document.write("The position of the leftmost vowel " +str.charAt(i)+ " is:" +pos+"\n");
+           exit;
+        }
+    }
+    document.write("The entered string is:" +str+ "<br/>");
+    document.write("The entered string has no vowels");
+}
+</script>
+</head>
+<body onload="str_vowel()">
+</body>
+</html>
+
+
+//TASK-2********************************************
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>jQuery get() Demo</title>
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+<script>
+$(document).ready(function(){
+$("button").click(function(){
+$.get("date-time.php", function(data){
+// Display the returned data in browser
+$("#result").html(data);
+});
+});
+});
+</script>
+</head>
+<body>
+<div id="result">
+  <h2> The XMLHttpRequest Object by the server date and time</h2>
+  <button type="button">Load Date and Time</button>
+</div>
+</body>
+</html>
+
+date-time.php
+<?php
+date_default_timezone_set(“Asia/Kolkata”);
+echo date("F d, Y h:i:s A");
+?>
