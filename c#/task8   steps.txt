@@ -1,0 +1,17 @@
+** create project -> windows forms app(.net ...) -> create
+
+** open solution explorer ->  right click on project name -> add -> new item -> data -> srvc based db
+
+** view -> server explr  ->  data connections -> click on database1  -> right click on tables  -> add new table
+
+** add col names to table -> select last row -> update  -> update db
+
+** data conn  ->  databse1  ->  tables -> right click on table  ->  click show table data
+
+** add some data to table ->  click on refresh(logo)
+
+** view  -> data sources -> add new data src  -> select db -> dataset ->check all boxes -> finish
+
+** database1Dataset  -> table -> drag and drop data grid view and details in form1 (first selsct form1 to get these options)
+
+** click start

@@ -1,0 +1,29 @@
+** open vscode 
+** run this command in cmd 
+** dotnet new winforms -o first
+** in the folder named first delete form1.cs and form1designer.cs 
+** in program.cs paste this code
+
+using System.Windows.Forms;
+using System.Drawing;
+namespace First
+{
+    public class MyForm : Form
+    {
+        public MyForm()
+        {
+            InitComponents();
+        }
+        private void InitComponents()
+        {
+            ColorDialog dlg = new ColorDialog(); dlg.ShowDialog();
+        }
+        [STAThread]
+        static void Main() {
+            Application.SetHighDpiMode(HighDpiMode.SystemAware); Application.EnableVisualStyles();
+            Application.Run(new MyForm());
+        }
+    }
+}
+
+** run this command   dotnet new winforms -o first

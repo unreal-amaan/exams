@@ -1,0 +1,15 @@
+C:\Users\syed amaanuddin\OneDrive\Desktop\experimental folder\exams\c#\task9_vscode\bin\Debug\net9.0-windows\task9_vscode.exe
+C:\Users\syed amaanuddin\OneDrive\Desktop\experimental folder\exams\c#\task9_vscode\bin\Debug\net9.0-windows\task9_vscode.deps.json
+C:\Users\syed amaanuddin\OneDrive\Desktop\experimental folder\exams\c#\task9_vscode\bin\Debug\net9.0-windows\task9_vscode.runtimeconfig.json
+C:\Users\syed amaanuddin\OneDrive\Desktop\experimental folder\exams\c#\task9_vscode\bin\Debug\net9.0-windows\task9_vscode.dll
+C:\Users\syed amaanuddin\OneDrive\Desktop\experimental folder\exams\c#\task9_vscode\bin\Debug\net9.0-windows\task9_vscode.pdb
+C:\Users\syed amaanuddin\OneDrive\Desktop\experimental folder\exams\c#\task9_vscode\obj\Debug\net9.0-windows\task9_vscode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\syed amaanuddin\OneDrive\Desktop\experimental folder\exams\c#\task9_vscode\obj\Debug\net9.0-windows\task9_vscode.AssemblyInfoInputs.cache
+C:\Users\syed amaanuddin\OneDrive\Desktop\experimental folder\exams\c#\task9_vscode\obj\Debug\net9.0-windows\task9_vscode.AssemblyInfo.cs
+C:\Users\syed amaanuddin\OneDrive\Desktop\experimental folder\exams\c#\task9_vscode\obj\Debug\net9.0-windows\task9_vscode.csproj.CoreCompileInputs.cache
+C:\Users\syed amaanuddin\OneDrive\Desktop\experimental folder\exams\c#\task9_vscode\obj\Debug\net9.0-windows\task9_vscode.sourcelink.json
+C:\Users\syed amaanuddin\OneDrive\Desktop\experimental folder\exams\c#\task9_vscode\obj\Debug\net9.0-windows\task9_vscode.dll
+C:\Users\syed amaanuddin\OneDrive\Desktop\experimental folder\exams\c#\task9_vscode\obj\Debug\net9.0-windows\refint\task9_vscode.dll
+C:\Users\syed amaanuddin\OneDrive\Desktop\experimental folder\exams\c#\task9_vscode\obj\Debug\net9.0-windows\task9_vscode.pdb
+C:\Users\syed amaanuddin\OneDrive\Desktop\experimental folder\exams\c#\task9_vscode\obj\Debug\net9.0-windows\task9_vscode.genruntimeconfig.cache
+C:\Users\syed amaanuddin\OneDrive\Desktop\experimental folder\exams\c#\task9_vscode\obj\Debug\net9.0-windows\ref\task9_vscode.dll

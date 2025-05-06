@@ -1,0 +1,10 @@
+C:\Users\syed amaanuddin\OneDrive\Desktop\experimental folder\exams\c#\task9\task9\bin\Debug\task9.exe.config
+C:\Users\syed amaanuddin\OneDrive\Desktop\experimental folder\exams\c#\task9\task9\bin\Debug\task9.exe
+C:\Users\syed amaanuddin\OneDrive\Desktop\experimental folder\exams\c#\task9\task9\bin\Debug\task9.pdb
+C:\Users\syed amaanuddin\OneDrive\Desktop\experimental folder\exams\c#\task9\task9\obj\Debug\task9.csproj.AssemblyReference.cache
+C:\Users\syed amaanuddin\OneDrive\Desktop\experimental folder\exams\c#\task9\task9\obj\Debug\task9.Form1.resources
+C:\Users\syed amaanuddin\OneDrive\Desktop\experimental folder\exams\c#\task9\task9\obj\Debug\task9.Properties.Resources.resources
+C:\Users\syed amaanuddin\OneDrive\Desktop\experimental folder\exams\c#\task9\task9\obj\Debug\task9.csproj.GenerateResource.cache
+C:\Users\syed amaanuddin\OneDrive\Desktop\experimental folder\exams\c#\task9\task9\obj\Debug\task9.csproj.CoreCompileInputs.cache
+C:\Users\syed amaanuddin\OneDrive\Desktop\experimental folder\exams\c#\task9\task9\obj\Debug\task9.exe
+C:\Users\syed amaanuddin\OneDrive\Desktop\experimental folder\exams\c#\task9\task9\obj\Debug\task9.pdb

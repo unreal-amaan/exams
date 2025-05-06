@@ -1,0 +1,10 @@
+C:\Users\syed amaanuddin\OneDrive\Desktop\experimental folder\exams\c#\task10\task10\bin\Debug\task10.exe.config
+C:\Users\syed amaanuddin\OneDrive\Desktop\experimental folder\exams\c#\task10\task10\bin\Debug\task10.exe
+C:\Users\syed amaanuddin\OneDrive\Desktop\experimental folder\exams\c#\task10\task10\bin\Debug\task10.pdb
+C:\Users\syed amaanuddin\OneDrive\Desktop\experimental folder\exams\c#\task10\task10\obj\Debug\task10.csproj.AssemblyReference.cache
+C:\Users\syed amaanuddin\OneDrive\Desktop\experimental folder\exams\c#\task10\task10\obj\Debug\task10.Form1.resources
+C:\Users\syed amaanuddin\OneDrive\Desktop\experimental folder\exams\c#\task10\task10\obj\Debug\task10.Properties.Resources.resources
+C:\Users\syed amaanuddin\OneDrive\Desktop\experimental folder\exams\c#\task10\task10\obj\Debug\task10.csproj.GenerateResource.cache
+C:\Users\syed amaanuddin\OneDrive\Desktop\experimental folder\exams\c#\task10\task10\obj\Debug\task10.csproj.CoreCompileInputs.cache
+C:\Users\syed amaanuddin\OneDrive\Desktop\experimental folder\exams\c#\task10\task10\obj\Debug\task10.exe
+C:\Users\syed amaanuddin\OneDrive\Desktop\experimental folder\exams\c#\task10\task10\obj\Debug\task10.pdb
