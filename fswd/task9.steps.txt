@@ -1,0 +1,11 @@
+-   start apache
+-   netbeans -> new project -> java with ant -> java web -> web application -> next -> .. -> finish
+-   web application1 -> right click on web pages  -> new -> jsp -> change name "forward" -> click finish
+-   paste the forward.jsp code
+-   web application1 -> right click on web pages  -> new -> jsp -> change name "welcomepage" -> click finish
+-   paste the welcomepage.jsp code
+-   web application1 -> right click on web pages  -> new -> jsp -> change name "main" -> click finish
+-   paste the html code in main.jsp
+-   run ->build project 
+-   run -> run project 
+-   http://localhost:8081/WebApplication1/main.jsp
