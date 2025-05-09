@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <pthread.h>
 #include <semaphore.h>
+#include<unistd.h>
 sem_t mutex, wrt;
 int data = 0, rcount = 0;
 void *reader(void *arg)
@@ -31,7 +32,7 @@ void *writer(void *arg)
     sleep(1);
     sem_post(&wrt);
 }
-main()
+void main()
 {
     int i, b;
     pthread_t rtid[5], wtid[5];
